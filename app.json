@@ -10,7 +10,7 @@
       "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": "MASTER-MD&1yDFNiRB"
+      "value": "PATRON-MD~f0f757f3e1b58a634e7793a4de45ee5a"
     },
     "MODE": {
       "description": "mode public or self",
